@@ -1,5 +1,5 @@
 
-# Proyecto de Servicios en la nube 2024
+# Proyecto de Servicios en la nube 2025
 
 Este proyecto busca evaluar las capacidades de los estudiantes del curso de _Servicios en la nube_
 de a Universidad Nacional de Colombia sede Medellín, al implementar la infraestructura necesaria
@@ -76,3 +76,4 @@ En el siguiente [link](https://drive.google.com/drive/folders/1lZPTUXAaDkVg0PWpy
 ## Errores en este proyecto
 
 Si detecta algún error en este proyecto, le instamos a informarlo a través de los canales oficiales del curso. También estamos abiertos a recibir Pull Requests, aunque no se garantiza su aceptación.
+
